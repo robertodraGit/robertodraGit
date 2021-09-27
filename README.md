@@ -2,13 +2,9 @@
 
 # 😊 Hey there! I'm Roberto Drago, nice to meet you! 🤟
 
-- 🔭 I’m currently working on my overall skills in front-end and back-end developing
-- 🌱 I’m currently learning Laravel, a popular PHP framework
-- 👯 I’m looking to collaborate on big projects, coming soon
-- 🤔 I’m looking for help with databases, sometimes I struggle with that 🤔 
-- 💬 Ask me about Laravel, HTML and CSS, I feel great on these
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robertodrago/), [Telegram](https://t.me/Dragotti), [Instagram](https://www.instagram.com/robb_drago/)!
+- 🔭 I’m currently working on my overall skills in front-end developing
+- 🌱 I’m learning Vuex, Nuxt and Composition APIs
+- 👯 I’m working for [TheWaveStudio](https://www.thewavestudio.it), check it out 
+- 💬 Ask me about JavaScript, React and Vue I feel great on these
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robertodrago/)
 - 😄 Nickname: Drago, my surname is also my nickname
-
-### I'm also a photographer, if you want to take a look
-### click on that [link](https://www.instagram.com/file_rawbb/)
