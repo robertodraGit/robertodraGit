@@ -1,5 +1,3 @@
-![robertodraGit header image](https://res.cloudinary.com/dragit/image/upload/v1612293108/github/header_readme_bxhrj2.png)
-
 # 😊 Hey there! I'm Roberto Drago, nice to meet you! 🤟
 
 - 🔭 I’m currently working on my overall skills in front-end developing
